@@ -8,4 +8,5 @@
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/297cb906-8288-4536-9d72-953bb69efdf0" />
+<img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/1091c9f3-ebc9-4c6c-8cc0-a08fd725ddd0" />
+
